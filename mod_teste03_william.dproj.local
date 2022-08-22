@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/08/22 14:55:43.000.931,=C:\Projetos\Delphi\DataSnap_exemplo_03\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>2022/08/22 14:55:44.000.247,=C:\Projetos\Delphi\DataSnap_exemplo_03\ServerContainerUnit1.pas</Transaction>
+    <Transaction>2022/08/22 14:55:44.000.483,=C:\Projetos\Delphi\DataSnap_exemplo_03\WebModuleUnit1.pas</Transaction>
+    <Transaction>2022/08/22 14:55:44.000.680,=C:\Projetos\Delphi\DataSnap_exemplo_03\js\json2.js</Transaction>
+    <Transaction>2022/08/22 14:55:44.000.721,=C:\Projetos\Delphi\DataSnap_exemplo_03\js\callbackframework-min.js</Transaction>
+    <Transaction>2022/08/22 14:55:44.000.709,=C:\Projetos\Delphi\DataSnap_exemplo_03\js\json2-min.js</Transaction>
+    <Transaction>2022/08/22 14:55:44.000.686,=C:\Projetos\Delphi\DataSnap_exemplo_03\js\callbackframework.js</Transaction>
+    <Transaction>2022/08/22 14:55:44.000.666,=C:\Projetos\Delphi\DataSnap_exemplo_03\js\base64.js</Transaction>
+    <Transaction>2022/08/22 14:55:44.000.702,=C:\Projetos\Delphi\DataSnap_exemplo_03\js\base64-min.js</Transaction>
+    <Transaction>2022/08/22 14:55:44.000.673,=C:\Projetos\Delphi\DataSnap_exemplo_03\js\serverfunctionexecutor.js</Transaction>
+    <Transaction>2022/08/22 14:55:44.000.715,=C:\Projetos\Delphi\DataSnap_exemplo_03\js\serverfunctionexecutor-min.js</Transaction>
+    <Transaction>2022/08/22 14:55:44.000.696,=C:\Projetos\Delphi\DataSnap_exemplo_03\js\serverfunctions.js</Transaction>
+    <Transaction>2022/08/22 15:02:57.000.364,=C:\Projetos\Delphi\DataSnap_exemplo_03\Pessoa.pas</Transaction>
+    <Transaction>2022/08/22 15:02:59.000.296,=C:\Projetos\Delphi\DataSnap_exemplo_03\uDMConexao.pas</Transaction>
+    <Transaction>2022/08/22 15:03:00.000.927,=C:\Projetos\Delphi\DataSnap_exemplo_03\uGenericDAO.pas</Transaction>
+    <Transaction>2022/08/22 15:03:12.000.848,=C:\Projetos\Delphi\DataSnap_exemplo_03\controller\uFuncoes.pas</Transaction>
+    <Transaction>2022/08/22 15:03:12.000.711,=C:\Projetos\Delphi\DataSnap_exemplo_03\controller\uBiblioteca.pas</Transaction>
+    <Transaction>2022/08/22 15:03:12.000.610,=C:\Projetos\Delphi\DataSnap_exemplo_03\controller\TrataException.pas</Transaction>
+    <Transaction>2022/08/22 15:03:12.000.802,=C:\Projetos\Delphi\DataSnap_exemplo_03\controller\uConvert.pas</Transaction>
+    <Transaction>2022/08/22 15:03:12.000.564,=C:\Projetos\Delphi\DataSnap_exemplo_03\controller\Controller.pas</Transaction>
+    <Transaction>2022/08/22 15:03:12.000.661,=C:\Projetos\Delphi\DataSnap_exemplo_03\controller\uAtributos.pas</Transaction>
+    <Transaction>2022/08/22 15:03:12.000.892,=C:\Projetos\Delphi\DataSnap_exemplo_03\controller\uModel.pas</Transaction>
+    <Transaction>2022/08/22 15:03:12.000.758,=C:\Projetos\Delphi\DataSnap_exemplo_03\controller\uConstantes.pas</Transaction>
+    <Transaction>2022/08/22 15:03:43.000.875,=C:\Projetos\Delphi\DataSnap_exemplo_03\DataSetHelper\DataSetConverter4D.Impl.pas</Transaction>
+    <Transaction>2022/08/22 15:03:43.000.956,=C:\Projetos\Delphi\DataSnap_exemplo_03\DataSetHelper\DataSetConverter4D.Util.pas</Transaction>
+    <Transaction>2022/08/22 15:03:43.000.825,=C:\Projetos\Delphi\DataSnap_exemplo_03\DataSetHelper\DataSetConverter4D.Helper.pas</Transaction>
+    <Transaction>2022/08/22 15:03:43.000.918,=C:\Projetos\Delphi\DataSnap_exemplo_03\DataSetHelper\DataSetConverter4D.pas</Transaction>
+  </Transactions>
+</BorlandProject>
